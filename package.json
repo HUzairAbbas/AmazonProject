@@ -1,0 +1,14 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "This Is my AMAZON Automation Project Will work on the assignment given by HAssan Bhai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uzair",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.8.1"
+  }
+}
